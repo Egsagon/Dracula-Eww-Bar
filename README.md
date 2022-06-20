@@ -1,5 +1,7 @@
 # Dracula-Eww-Bar
 Vertical eww bar dracula-themed.
+Atention: Some parts of the script are specific to my config (like the GPU usage poll) and you may have to change it in order for the bar to work.
+
 
 ## Description
 
